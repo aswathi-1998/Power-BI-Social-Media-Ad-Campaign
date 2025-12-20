@@ -2,6 +2,16 @@
 
 An analysis of the effectiveness of social media ad campaigns using Power BI, showcasing campaign performance, ad effectiveness, and user engagement trends
 
+## About the Data
+The Data comprises of four datasets namely:
+-	Campaigns – Campaign-level information (budget, duration, start/end dates) 
+-	Ads – Ad details (platform, format, target audience, campaign linkage) 
+-	Users – User demographics and interests 
+-	Ad_Events – Logs of user interactions with ads (impressions, likes, shares)
+
+To see data use the ![kaggle link](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance/data)
+
+
 ## Key Findings and suggestions
 
 -	Most people did not have much engagement with the ads. So better work needs to be done to gather more clicks and other forms of engagement
