@@ -15,7 +15,7 @@ To see data use the [kaggle link](https://www.kaggle.com/datasets/alperenmyung/s
 ## Key Findings and suggestions
 
 -	Most people did not have much engagement with the ads. So better work needs to be done to gather more clicks and other forms of engagement
--	To get more engagement in terms of Clicks, Likes, Shares, Comments and Purchases, try posting ads preferably on Mondays, Thursdays and Fridays during the afternoon or evening timings.--•	- Most users and most engagement were by males, so more ads targeting that group can be used.
+-	To get more engagement in terms of Clicks, Likes, Shares, Comments and Purchases, try posting ads preferably on Mondays, Thursdays and Fridays during the afternoon or evening timings.--- Most users and most engagement were by males, so more ads targeting that group can be used.
 -	Most users and most engagement were by the age group of 25-34, so more ads targeting that group can be used.
 -	There were some campaigns which did not have any ads (16 and 43) the reason for that must be investigated.
 -	Most Engagements were derived from stories while least with long form video ads. Hence more emphasis should be given on that.
