@@ -4,4 +4,4 @@
 
 ![page_2_2](https://github.com/aswathi-1998/Power-BI-Social-Media-Ad-Campaign/blob/main/Dashboard/page_2_2.png)
 
-![page_3](Dashboard/page_3.png)
+![page_3](page_3.png)
