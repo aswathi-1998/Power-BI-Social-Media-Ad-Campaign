@@ -1,1 +1,1 @@
-[!Dashboard/page_1.png]
+(!Dashboard/page_1.png)
