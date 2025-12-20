@@ -9,7 +9,7 @@ The Data comprises of four datasets namely:
 -	Users – User demographics and interests 
 -	Ad_Events – Logs of user interactions with ads (impressions, likes, shares)
 
-To see data use the ![kaggle link](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance/data)
+To see data use the [kaggle link](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance/data)
 
 
 ## Key Findings and suggestions
