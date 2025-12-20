@@ -1,1 +1,1 @@
-![Screenshot of app](https://github.com/aswathi-1998/Power-BI-Social-Media-Ad-Campaign/blob/main/Dashboard/page_1.png)
+![page 1](https://github.com/aswathi-1998/Power-BI-Social-Media-Ad-Campaign/blob/main/Dashboard/page_1.png)
