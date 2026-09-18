@@ -15,12 +15,12 @@ To see data use the [kaggle link](https://www.kaggle.com/datasets/alperenmyung/s
 
 <table>
   <tr>
-    <td><img src="Dashboard/page_1.png" alt="Page 1" width="100%"></td>
-    <td><img src="Dashboard/page_2_1.png" alt="Page 2.1" width="100%"></td>
+    <td><a href="Dashboard/page_1.png"><img src="Dashboard/page_1.png" alt="Page 1" width="100%"></a></td>
+    <td><a href="Dashboard/page_2_1.png"><img src="Dashboard/page_2_1.png" alt="Page 2.1" width="100%"></a></td>
   </tr>
   <tr>
-    <td><img src="Dashboard/page_2_2.png" alt="Page 2.2" width="100%"></td>
-    <td><img src="Dashboard/page_3.png" alt="Page 3" width="100%"></td>
+    <td><a href="Dashboard/page_2_2.png"><img src="Dashboard/page_2_2.png" alt="Page 2.2" width="100%"></a></td>
+    <td><a href="Dashboard/page_3.png"><img src="Dashboard/page_3.png" alt="Page 3" width="100%"></a></td>
   </tr>
 </table>
 
