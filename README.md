@@ -11,6 +11,19 @@ The Data comprises of four datasets namely:
 
 To see data use the [kaggle link](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance/data)
 
+## Power BI Dashboard
+
+<table>
+  <tr>
+    <td><img src="Dashboard/page_1.png" alt="Page 1" width="100%"></td>
+    <td><img src="Dashboard/page_2_1.png" alt="Page 2.1" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="Dashboard/page_2_2.png" alt="Page 2.2" width="100%"></td>
+    <td><img src="Dashboard/page_3.png" alt="Page 3" width="100%"></td>
+  </tr>
+</table>
+
 
 ## Key Findings and suggestions
 
